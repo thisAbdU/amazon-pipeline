@@ -352,6 +352,15 @@ docker compose -f infra/docker-compose.yml up --build
 - Change detection automatically identifies price changes, availability changes, and other modifications
 - The ingestor uses upsert logic to avoid duplicates while tracking history
 
+## Thumbnails 
+<img width="1283" height="684" alt="image" src="https://github.com/user-attachments/assets/2917d994-b61e-4f2d-9eb5-0a5d68486f78" />
+<img width="1283" height="684" alt="image" src="https://github.com/user-attachments/assets/38d83aac-b665-4d53-a440-d11fab1f38a1" />
+<img width="1283" height="684" alt="image" src="https://github.com/user-attachments/assets/fabe9797-cc1d-4459-b55d-d9a39756dd79" />
+<img width="1283" height="684" alt="image" src="https://github.com/user-attachments/assets/e20b0ee8-7a45-4db1-9291-ab02f88d4f8a" />
+
+
+
+
 ## License
 
 MIT

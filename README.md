@@ -17,7 +17,7 @@ The pipeline consists of the following services:
 ### Step 1: Clone and Setup
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:thisAbdU/amazon-pipeline.git
 cd amazon-pipeline
 ```
 

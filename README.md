@@ -24,7 +24,7 @@ cd amazon-pipeline
 ### Step 2: Configure Environment
 
 ```bash
-cp .env.example .env
+cp .env.example .env && cp .env.example ./infra/.env
 ```
 
 **Note:** The default `.env` works out of the box with mock data (no API keys needed). The database will initialize with 8 sample products automatically!

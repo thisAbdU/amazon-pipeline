@@ -1,0 +1,25 @@
+[
+  {
+    "asin": "B07XJ8C8F5",
+    "title": "Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal",
+    "brand": "Amazon",
+    "category": "Electronics",
+    "image_url": "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg",
+    "price": 29.99,
+    "currency": "USD",
+    "availability": "In Stock",
+    "seller": "Amazon.com"
+  },
+  {
+    "asin": "B09JQMJSXY",
+    "title": "PlayStation 5 Console",
+    "brand": "Sony",
+    "category": "Video Games",
+    "image_url": "https://m.media-amazon.com/images/I/01f+GVvouTS._AC_SL1500_.jpg",
+    "price": 499.99,
+    "currency": "USD",
+    "availability": "In Stock",
+    "seller": "Amazon.com"
+  }
+]
+

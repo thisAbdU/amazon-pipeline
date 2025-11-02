@@ -1,0 +1,19 @@
+[project]
+name = "amazon-pipeline-ingestor"
+version = "0.1.0"
+description = "Data ingestor service for Amazon pipeline"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.0.0",
+    "sqlalchemy>=2.0.0",
+    "asyncpg>=0.29.0",
+    "python-dotenv>=1.0.0",
+    "typer>=0.9.0",
+    "playwright>=1.40.0",
+    "scrapingbee>=1.1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
